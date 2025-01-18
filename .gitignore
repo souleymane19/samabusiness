@@ -65,6 +65,8 @@ frontend/tmp
 frontend/out-tsc
 frontend/bazel-out
 
+node_modules
+
 # Node
 frontend/node_modules
 frontend/npm-debug.log
